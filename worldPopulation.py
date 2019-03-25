@@ -3,8 +3,6 @@
 
 # CSC 110 section 03
 
-# Assignment #8
-
 # Date 06/10/2018
 
 # program that reads data from a file of world populaion  and analyzes this
